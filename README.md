@@ -1,15 +1,6 @@
 # Movie_Recommendation_System
 This repository contains a movie recommendation system using collaborative filtering. The model leverages user and movie embeddings to suggest movies based on user preferences and incorporates additional movie metadata for enhanced recommendations. The dataset used is from MovieLens, consisting of 25 million movie ratings and tag applications.
 
-
-Got it! Here's a revised README file reflecting the use of collaborative filtering only:
-
----
-
-# Movie Recommendation System
-
-## Description
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
